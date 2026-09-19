@@ -41,6 +41,9 @@ public class Main {
                 case "4":
                     mudarStatusPedido();
                     break;
+                case "5":
+                    carregarDadosExemplo();
+                    break;
                 case "0":
                     rodando = false;
                     System.out.println("\nEncerrando a aplicação.");
@@ -52,14 +55,16 @@ public class Main {
     }
 
     private static void exibirMenu() {
-        System.out.println("\n---------------- MENU PRINCIPAL ----------------");
-        System.out.println("1. Criar novo pedido");
-        System.out.println("2. Listar todos os pedidos");
-        System.out.println("3. Visualizar detalhes de um pedido por ID");
-        System.out.println("4. Mudar status de um pedido");
-        System.out.println("0. Sair");
-        System.out.println("------------------------------------------------");
-    }
+            System.out.println("\n---------------- MENU PRINCIPAL ----------------");
+            System.out.println("1. Criar novo pedido");
+            System.out.println("2. Listar todos os pedidos");
+            System.out.println("3. Visualizar detalhes de um pedido por ID");
+            System.out.println("4. Mudar status de um pedido");
+            System.out.println("5. Inserir pedidos de LOREM IPSUM (exemplo, entendeu) ");
+            System.out.println("0. Sair");
+            System.out.println("------------------------------------------------");
+        }
+
 
     private static void criarNovoPedido() {
         System.out.println("\n=== NOVO PEDIDO ===");

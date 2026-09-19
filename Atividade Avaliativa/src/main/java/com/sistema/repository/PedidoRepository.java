@@ -32,7 +32,7 @@ public class PedidoRepository {
         return instance;
     }
 
-    //swalva um pedido no repositório em memória.
+    //salva um pedido no repositório em memória.
     public void salvar(Pedido pedido) {
         if (pedido != null) {
             // Se já existe, atualiza; caso contrário, adiciona
@@ -58,11 +58,5 @@ public class PedidoRepository {
 
     public List<Pedido> listarTodos() {
         return Collections.unmodifiableList(pedidos);
-    }
-
-    // não precisa dele no final do código, pode remover
-    public void limpar() {
-        pedidos.clear();
-        idGenerator.set(1);
     }
 }
