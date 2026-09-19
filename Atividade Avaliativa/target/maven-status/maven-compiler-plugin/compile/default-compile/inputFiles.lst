@@ -1,21 +1,21 @@
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaTransportadora.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\StatusPedido.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\decorator\CupomDescontoDecorator.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\decorator\PagamentoDecorator.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaSedex.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\NotificacaoClienteObserver.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\facade\SistemaPedidosFacade.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\Pedido.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoBoleto.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\PedidoBuilder.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaPAC.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\Main.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoCartaoParcelado.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\ObserverStatusPedido.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EstrategiaEntrega.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoCartaoVista.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\EstrategiaPagamento.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoPix.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\LogStatusObserver.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\ItemPedido.java
-D:\Arquivos\Faculdade\Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\repository\PedidoRepository.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\StatusPedido.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\ObserverStatusPedido.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoPix.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoCartaoVista.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\Pedido.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoBoleto.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\decorator\PagamentoDecorator.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\NotificacaoClienteObserver.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EstrategiaEntrega.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\decorator\CupomDescontoDecorator.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaSedex.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\EstrategiaPagamento.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\Main.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaPAC.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\ItemPedido.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\repository\PedidoRepository.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\facade\SistemaPedidosFacade.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\observer\LogStatusObserver.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\pagamento\PagamentoCartaoParcelado.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\model\PedidoBuilder.java
+C:\Users\laerc\Documentos\ProjetosJava\Atividade Avaliativa Padrões de Projeto\Atividade Avaliativa\src\main\java\com\sistema\strategy\entrega\EntregaTransportadora.java
